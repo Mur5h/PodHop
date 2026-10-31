@@ -1,5 +1,9 @@
 # podhop
 
+<p align="center">
+  <img src="docs/demo.gif" alt="podhop taking over AirPods from a MacBook, on Linux" width="760">
+</p>
+
 **AirPods quick-switching for Linux.** Pull your AirPods to your Linux machine
 the moment you start using it — and let your iPhone or MacBook take them back
 when you pick those up. Apple-style automatic switching, without Apple.
@@ -93,6 +97,7 @@ the same link and you're streaming.
 
 ## Limitations
 
+- The case must be **open** (or buds in ears) for a takeover — closed-case AirPods ignore connection attempts. Same behavior as Apple's own devices, and irrelevant in daily use: you switch them while wearing them.
 - Proven on **one configuration**: Raspberry Pi Zero 2 W (BlueZ 5.82,
   Debian 13) + AirPods Pro (firmware 9A348). Other adapters/AirPods models
   should work — AAP is model-independent per LibrePods — but are untested.

@@ -58,6 +58,12 @@ link. Nothing contacts Apple. We tested whether this leaks without pairing:
 it does **not** — the channel requires an authenticated link (see
 [docs/PROTOCOL.md](docs/PROTOCOL.md)).
 
+## How to use it
+
+**Read [docs/USAGE.md](docs/USAGE.md)** — the practical guide: the mental model, the
+physical rules (open case / in-ears, range, one owner at a time), what a
+working switch looks like, daily-use flow, and a troubleshooting table.
+
 ## Requirements
 
 - Linux with BlueZ ≥ 5.50

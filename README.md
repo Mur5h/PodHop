@@ -141,10 +141,4 @@ Standing on the shoulders of:
 - [tyalie/AAP-Protocol-Defintion](https://github.com/tyalie/AAP-Protocol-Defintion)
   — the magic cloud key request, PSM confirmation
 
-License: GPL-3.0 (same as the projects this builds upon).
-
----
-
-*Built in one very long night with a Raspberry Pi Zero 2 W, a lot of
-bluetoothd logs, and the stubborn belief that Linux users deserve the good
-earbuds too.*
+License: GPL-3.0
